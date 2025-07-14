@@ -49,6 +49,7 @@ This project demonstrates a **3-tier architecture** using Docker and Docker Comp
 ```bash
 git clone https://github.com/gskumar-lab/3tier_docker_app.git
 cd 3tier_docker_app
+```
 
 ---
 
